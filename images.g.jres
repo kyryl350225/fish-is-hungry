@@ -1,0 +1,23 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAMDM//8AAAAAwERE9AAAAAAAzPT/zAwAzMwREf2/zcDdHE1E1NzNwM1NRERExM3AzURERP9PD8DNRETERE8PAMxERMTERA8AzEQRERFEDwDA3ERERP0AAABMRPRE9AAAAMBEREQPAAAAAExERA8AAAAAwET0AAAAAAAA/w8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAABABAAAAAAAAEREAAAAAABAREQEAAAAAERERAQAAAAA7k5EBAAAAABEREQEAAAAAO5ORAQAAAAAREREBAAAAADuTkQEAAAAAERERAQAAAAAQEREBAAAAAAAREQAAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "song1": {
+        "data": "0078000408010103001c0001dc00690000045e0100040000000000000000000005000001000003300000000400011d04000800011d08000c0001200c001000012010001400012414001800012418001c0001271c0020000127",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
